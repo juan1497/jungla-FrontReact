@@ -1,0 +1,11 @@
+.item_list{
+    margin-right: 20px;
+    color:black;
+}
+.home{
+    margin-left: 20px;
+}
+.burguer {
+    border-style: none !important;
+    margin-right: 10px;
+}

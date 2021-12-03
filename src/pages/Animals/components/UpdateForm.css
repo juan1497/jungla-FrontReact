@@ -1,0 +1,40 @@
+
+.text__selectF{
+    color:white !important;
+    margin-top:5px;
+    text-align: center;
+    margin-right: 3px;
+    font-size: 25px;
+    text-transform: capitalize;
+}
+.input__selectF{
+    border-style: none;
+    width:50px;
+    border-radius:7px;
+    text-align: center;
+    margin-left:20px;
+}
+
+.radio{
+    margin-left: 20px;
+    color:white !important;
+}
+
+.modal-content form button{
+    margin-top: 48px;
+    margin-bottom: 50px;
+    align-self: center;
+    border-style: none;
+    border: 1px solid white;
+    background-color: #262626;
+    border-radius: 4px;
+    color: white;
+    padding: 10px!important;
+    font-size: 20px;
+}
+.modal-content form button:hover{
+        background-color: white;
+        color:black;
+        transition: 0.8s;
+    }
+        
