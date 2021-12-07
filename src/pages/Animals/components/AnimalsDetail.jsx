@@ -31,6 +31,7 @@ font-size: 25px;
 const Map= styled.iframe`
 width:420px;
 height:300px;
+margin-bottom:20px;
 `
 const AnimalsDetail = () => {
     const {user} =useContext(UserContext)

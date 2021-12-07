@@ -1,5 +1,5 @@
-// const URL="https://jungla-eosin.vercel.app"
-const URL="http://localhost:4000"
+const URL="https://jungla-eosin.vercel.app"
+// const URL="http://localhost:4000"
 //HABITATS
 const GET_HABITATS=`${URL}/habitat/`
 const GET_HABITAT=`${URL}/habitat/`//id

@@ -2,7 +2,6 @@ import {GET_HABITATS,GET_HABITAT,ADD_HABITAT,UPDATE_HABITAT,DELETE_HABITAT} from
 
 export const GetHabitats= async ()=>{
     const AnimalsFetch = await fetch(GET_HABITATS, {
-
         method: "GET",
         credentials: "include",
         headers: {
